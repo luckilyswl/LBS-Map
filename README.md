@@ -7,7 +7,7 @@
 
 错误提示：
 
-<img src="C:/Users/bigti/Desktop/运行LBSMap出的错.PNG" width="1919" height="877" border="0" alt="">
+<img src="运行LBSMap出的错.PNG" width="1919" height="877" border="0" alt="">
 
 
 
@@ -18,14 +18,15 @@
 
 
 
-<img src="C:/Users/bigti/Desktop/修改后的目录.PNG" width="369" height="595" border="0" alt="">
+<img src="修改后的目录.PNG" width="369" height="595" border="0" alt="">
 
 
 
 
 
 
-<img src="C:/Users/bigti/Desktop/运行百度地图.PNG" width="362" height="613" border="0" alt="">
+<img src="运行百度地图.PNG" width="362" height="613" border="0" alt="">
+
 
 
 参考的资料：
