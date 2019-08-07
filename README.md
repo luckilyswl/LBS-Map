@@ -20,7 +20,7 @@
 
 出现该问题，是因为库出现冲突
 
-<img src="C:/Users/bigti/Desktop/库冲突.PNG" width="1830" height="568" border="0" alt="">
+<img src="库冲突.PNG" width="1830" height="568" border="0" alt="">
 
 解决方法：
 
